@@ -1,7 +1,7 @@
 # Taskinator
 
 ## Description
-Lets user create teasts by entering a task name, selecting a type of task and clicking an "Add Task" button. From there you wull be able to organize your tasks into Tasks To Do, Tasks In Progress and Tasks Completed lists by using the dropdown to change the task status.
+Lets user create tasks by entering a task name, selecting a type of task and clicking an "Add Task" button. From there you will be able to organize your tasks into Tasks To Do, Tasks In Progress and Tasks Completed lists by using the dropdown to change the task status.
 
 ## Tools and Skills
 - HTML
