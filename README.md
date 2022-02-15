@@ -6,7 +6,7 @@ Lets user create teasts by entering a task name, selecting a type of task and cl
 ## Tools and Skills
 - HTML
 - CSS
-- Javascript
+- JavaScript
 - Web Storage API
 
 
